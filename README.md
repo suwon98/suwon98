@@ -27,6 +27,13 @@
 - 데이터 수집 우선순위·API 호출 예산 관리, 최신 관측과 이력 분리, 단일 로그인 세션 유지
 - Java · Spring Boot · JPA · MySQL · Next.js · TypeScript
 
+### [Trip Planner](https://github.com/suwon98/trip-planner)
+지도에서 여행 동선과 일정을 계획하고 커뮤니티에 공유하는 5인 팀 프로젝트입니다.
+
+- 백엔드 및 STOMP/WebSocket 기반 실시간 관리자 문의 담당, Controller·DTO의 Swagger/OpenAPI 문서화
+- Java · Spring Boot · JPA · MariaDB · React · TypeScript
+- 서비스 운영 종료 · [팀 프로젝트 구현 기록](https://github.com/korit-12-1team-fiveguys/trip-planner)
+
 ### [실시간 멀티플레이 블랙잭](https://github.com/suwon98/blackjack_web_game)
 가상 칩을 사용하는 1~6인 웹 게임으로, 실시간 플레이·채팅과 서버 재시작 후 게임 복구를 지원합니다.
 
