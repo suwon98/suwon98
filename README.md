@@ -32,7 +32,7 @@
 
 - 백엔드 및 STOMP/WebSocket 기반 실시간 관리자 문의 담당, Controller·DTO의 Swagger/OpenAPI 문서화
 - Java · Spring Boot · JPA · MariaDB · React · TypeScript
-- 서비스 운영 종료 · [팀 프로젝트 구현 기록](https://github.com/korit-12-1team-fiveguys/trip-planner)
+- [배포 화면](https://trip-planner-eight-zeta.vercel.app) · [팀 프로젝트 구현 기록](https://github.com/korit-12-1team-fiveguys/trip-planner)
 
 ### [실시간 멀티플레이 블랙잭](https://github.com/suwon98/blackjack_web_game)
 가상 칩을 사용하는 1~6인 웹 게임으로, 실시간 플레이·채팅과 서버 재시작 후 게임 복구를 지원합니다.
