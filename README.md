@@ -19,6 +19,30 @@
 
 ---
 
+## 💻 주요 프로젝트
+
+### [Seoul Hub](https://github.com/suwon98/seoul-hub)
+서울 주요 거점의 인구 혼잡도와 시간별 추이를 지도에서 확인하는 웹 서비스입니다.
+
+- 데이터 수집 우선순위·API 호출 예산 관리, 최신 관측과 이력 분리, 단일 로그인 세션 유지
+- Java · Spring Boot · JPA · MySQL · Next.js · TypeScript
+
+### [실시간 멀티플레이 블랙잭](https://github.com/suwon98/blackjack_web_game)
+가상 칩을 사용하는 1~6인 웹 게임으로, 실시간 플레이·채팅과 서버 재시작 후 게임 복구를 지원합니다.
+
+- 서버 중심 상태 동기화, 게임 상태·잔액·정산의 트랜잭션 처리
+- Java · Spring Boot · STOMP/WebSocket · MariaDB · React · TypeScript
+- 공개 서버 운영 종료 · 로컬 실행 및 배포 당시 검증 기록 제공
+
+### [AI 인플루언서 커머스 숏폼 자동화](https://github.com/suwon98/ai-influencer-commerce-portfolio)
+상품 기획부터 영상 후편집·검수·다운로드까지 연결하는 단일 사용자 내부 운영 도구입니다.
+
+- 생성 도구 연동 구조와 FFmpeg 후편집, 검수 상태 관리 및 사람의 최종 승인
+- Java · Spring Boot · JPA · H2 · FFmpeg · Spring AI MCP
+- README 전용 포트폴리오 · 소스 코드 비공개
+
+---
+
 ## 💻 협업 태도 및 개발 성향
 * **소통과 협업:** 독단적인 개발보다 팀원과의 원활한 소통을 최우선으로 생각합니다.
 * **꼼꼼한 분석:** 코드의 동작 원리를 명확히 이해하고 넘어가는 꼼꼼한 성향을 지니고 있습니다.
